@@ -1,2 +1,3 @@
-# python_prog
-파이썬프로그랴밍 강의 예제
+import streamlit as st
+# 타이틀 텍스트 출력
+st.title('첫번째 웹 어플 만들기 😜')
